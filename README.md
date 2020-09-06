@@ -15,5 +15,6 @@ Line Chart
 
 
 
-Mixed Plot
+
 ![Figure_4](https://user-images.githubusercontent.com/55911880/92319070-5434d100-f032-11ea-8671-36c3b208b554.png)
+Mixed Plot
